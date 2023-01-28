@@ -37,5 +37,5 @@ func main() {
 	}
 
 	fmt.Println("Valor: \n\n", animals)
-
+	fmt.Println("Valor: \n\n", animals["cat"])
 }
